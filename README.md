@@ -2,14 +2,14 @@ Joortiz's Code Challenge
 ===
 
 
-###Your mission
+### Your mission
 
 **_Objective 1_**: Follow the [steps](#getting-started) below to get the project running locally. You should see 14 tests fail.
 
 **_Objective 2_**: Follow the TODOs in main.js. Slowly get the tests to pass.
 
-###Getting Started
-####Install Node
+### Getting Started
+#### Install Node
 (if you haven't already)   
 
 	https://nodejs.org/en/   
@@ -17,7 +17,7 @@ or you can install with Brew
 
     brew install node
 
-####Clone the repo locally
+####C lone the repo locally
 
 	git clone https://github.com/jortiz31/coding_challenge.git
 
