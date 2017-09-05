@@ -17,7 +17,7 @@ or you can install with Brew
 
     brew install node
 
-####C lone the repo locally
+#### Clone the repo locally
 
 	git clone https://github.com/jortiz31/coding_challenge.git
 
