@@ -6,12 +6,11 @@
   "scripts": {
     "test": "gulp watch"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "author": "joortiz",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-mocha": "^2.1.3",
     "should": "^7.1.1"
   }

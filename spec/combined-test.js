@@ -16,7 +16,7 @@ describe('The numberOfCertainChars function ', function () {
     it('in poem', function () {
       var result = api.numberOfCertainChars(testData.poem, 'a');
 
-      result.should.eql(6);
+      result.should.equal(6);
     });
   });
 });
